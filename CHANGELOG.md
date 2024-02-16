@@ -1,5 +1,8 @@
 # Cap-EC2 changelog
 
+## 1.2.0
+* require only `aws-ec2-sdk`
+
 ## 1.1.2
 
 * Allow using aws-sdk v3 [@magnusvk](https://github.com/magnusvk)
